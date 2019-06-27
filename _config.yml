@@ -10,9 +10,11 @@ encoding: utf-8
 title:               eva fast and curious
 #tagline:             'foo's website
 description:         Eva's blog...
-url: https://lanyon-plus.sbamin.com
+url: https://evafast.github.io
+#url: https://lanyon-plus.sbamin.com
 baseurl: ""
-urlimg: https://lanyon-plus.sbamin.com/images/
+urlimg: https://evafast.github.io/images/
+#urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
 #url: https://evafast.github.io
 #baseurl: ""
