@@ -7,16 +7,16 @@ relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               My Website
+title:               Eva Fast and curious
 #tagline:             'foo's website
-description:         Foo's blog...
-url: https://lanyon-plus.sbamin.com
-baseurl: ""
-urlimg: https://lanyon-plus.sbamin.com/images/
+description:         Eva's blog...
+##url: https://lanyon-plus.sbamin.com
+#baseurl: ""
+#urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
-#url: https://dyndna.github.io/lanyon-plus
-#baseurl: "/lanyon-plus"
-#urlimg: https://dyndna.github.io/lanyon-plus/images/
+url: https://evafast.github.io/lanyon-plus
+baseurl: "/lanyon-plus"
+urlimg: https://dyndna.github.io/lanyon-plus/images/
 markdown: kramdown
 kramdown:
   math_engine: mathjax
