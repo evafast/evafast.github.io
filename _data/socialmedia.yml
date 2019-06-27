@@ -1,15 +1,15 @@
 - name: Twitter
-  url: https://twitter.com/abcd
+  url: https://twitter.com/evaisfast
   class: fa fa-twitter-square
-  title: "Follow me @foo"
+  title: "Follow me @evaisfast"
 
-- name: Google Plus
-  url: https://plus.google.com/+foo
-  class: fa fa-google-plus-square
-  title: "Follow me +foo"
+#- name: Google Plus
+#  url: https://plus.google.com/+foo
+# class: fa fa-google-plus-square
+#  title: "Follow me +foo"
 
 - name: GitHub
-  url: https://github.com/xyz123abc
+  url: https://github.com/evafast
   class: fa fa-github-square
   title: Code repository
 
@@ -18,7 +18,7 @@
   class: fa fa-envelope-square
   title: "Reach Us"
 
-- name: RSS
-  url: "/feed.xml"
-  class: fa fa-rss-square
-  title: "Subscribe to RSS"
+#- name: RSS
+#  url: "/feed.xml"
+#  class: fa fa-rss-square
+#  title: "Subscribe to RSS"
