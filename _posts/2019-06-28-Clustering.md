@@ -9,8 +9,9 @@ category:
   - genomics
 # tags will also be used as html meta keywords.
 tags:
-  - examples
-  - common_tag
+  - single cell RNAseq
+  - genomics
+  - unsupervised
 show_meta: true
 comments: true
 mathjax: true
@@ -33,6 +34,8 @@ summaryfeed: false
 ---
 
 Whether you've analyzed single cell RNAseq experiments yourself your you have only been exposed to them via publications chances are high that you have encountered data that is sub grouped into clusters. Even before the advent of single cell techniques finding subgroups within data has been abundant in biological publications for example for phylogenetic relatedness or to find genes with common expression among samples.
+
+<!--more-->
 
 The single cell RNaseq field keeps on producing many publications on this subject including this excellent [review](https://www.nature.com/articles/s41576-018-0088-9) from Martin Hemberg's lab. Typically the use of either gold or silver standards allows you to determine how good your clustering method is. Gold standard means that you have some ground truth labels that you compare the results of your clustering method against. Silver standard means that you have enough knowledge about the labels from the underlying biology to evaluate results from clustering even if there's no ground truth available. Frequently peripheral blood mononuclear cells (PBMCs) are being used because they are well characterized and well separable based on their transcriptional profile. The following two publications provides some validation of clustering results both with both gold and silver standards ([Pub 1](https://f1000research.com/articles/7-1297/v2) and [Pub 2](https://www.nature.com/articles/nmeth.4236)).
 
