@@ -2,7 +2,7 @@
 layout: publ
 category: mypubs
 permalink: /about/publications/
-title: "Sample Publications"
+title: "Sample Publications - will be updated soon"
 published: true
 description: "Sample publication page"
 tags:

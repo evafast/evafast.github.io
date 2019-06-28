@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: Curriculum Vitae
+title: Curriculum Vitae  - will be updated soon
 category: base
 published: true
 description: "Curriculum Vitae / Resume"
