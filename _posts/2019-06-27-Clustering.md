@@ -47,3 +47,6 @@ Scanpy's [description for the neighborhood function](https://scanpy.readthedocs.
 ### 2) Resolution of the Louvain clustering
 Once the neighborhood graph is created one can now cluster on this graph object (as well as project it into low dimensional space for visualization). Simply speaking Louvain clustering partitions the neighborhood graphs into different chunks separating the parts or groups of cells that are not as much connected. This clustering method has been found to work particularly well on single cell RNAseq data and was validated via gold standard methods in this [publication](https://www.sciencedirect.com/science/article/pii/S0092867415006376). Changing the resolution parameter determines which connections will be kept and in turn how many clusters will result.
 To start with my analysis I ran through scanpys standard pipeline which uses 10 KNN nearest neighbors and a resolution parameters of 1 and came to this result of 8 clusters.
+
+{:.text-center img}
+![Default parmeters]({{ site.urlimg }}/media/clustering1.png "Default parmeters")
