@@ -23,11 +23,13 @@ sitemap:
 style: |
   .container {
         max-width: 48rem;
-    } 
+    }
 ---
 
 {% comment %}
-<!-- bibbase.org should work with following code unless you are hosting domain over https. --> 
+<!-- bibbase.org should work with following code unless you are hosting domain over https. -->
+
+This is still the example page - will be updated soon!
 
 {% if page.bibtex %}
  {% if page.bibtex contains 'http' %}
