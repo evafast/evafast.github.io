@@ -54,7 +54,7 @@ author:
   name:              Eva Fast
   url:               https://twitter.com/evaisfast
   avatar:         foo.png
-  email:              evaisfast@gmail.com                 
+  email:              evaisfast@gmail.com
 
 # Owner/author information
 owner:
@@ -65,13 +65,13 @@ owner:
   description:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        evaisfast
-  #facebook:       
+  #facebook:
   github:         https://github.com/evafast
-  #stackexchange:  
+  #stackexchange:
   linkedin:       https://www.linkedin.com/in/evafast
-  #instagram:      
+  #instagram:
   #flickr:
-  #tumblr:  
+  #tumblr:
   #google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
   #orcid: xyz123abc
@@ -102,7 +102,7 @@ links:
  #  url: /feed.xml
 
 # Google Custom Search:
-#google_search: xyz123abc
+google_search: 017502926892753747948:-_s4aq2lmty
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
