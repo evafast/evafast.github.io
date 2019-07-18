@@ -102,7 +102,7 @@ links:
  #  url: /feed.xml
 
 # Google Custom Search:
-google_search: 017502926892753747948:-_s4aq2lmty
+# google_search: 017502926892753747948:-_s4aq2lmty - still need to figure out the custom search
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
